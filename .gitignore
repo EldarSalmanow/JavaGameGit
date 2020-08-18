@@ -1,0 +1,5 @@
+# ignore IDE files
+.idea
+
+# ignore .iml file
+JavaGameGit.iml
