@@ -1,10 +1,10 @@
 package com.prog;
 
-public class Object {
+public class ObjectGame {
     private int x, y; // позиция на карте
     private int health, attack; // количество жизней и сила атаки
 
-    public Object(int x, int y, int health, int attack) {
+    public ObjectGame(int x, int y, int health, int attack) {
         this.x = x;
         this.y = y;
         this.health = health;

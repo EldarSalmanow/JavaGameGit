@@ -1,6 +1,6 @@
 package com.prog;
 
-public class Player extends Object{
+public class Player extends ObjectGame{
     private String name;
 
     public Player(String name) {

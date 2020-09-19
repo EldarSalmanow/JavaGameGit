@@ -3,3 +3,7 @@
 
 # ignore .iml file
 JavaGameGit.iml
+
+# ignore .class files and out files
+*.class
+out

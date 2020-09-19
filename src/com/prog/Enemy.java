@@ -1,6 +1,6 @@
 package com.prog;
 
-public class Enemy extends Object{
+public class Enemy extends ObjectGame {
     private int level;
 
     public Enemy(int x, int y, int level) {
